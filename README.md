@@ -759,6 +759,11 @@
 **Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
 [[Website](https://arxiv.org/abs/2306.06638v1)] 
 
+**MagiCapture: High-Resolution Multi-Concept Portrait Customization** \
+[[Website](https://arxiv.org/abs/2309.06895)] 
+
+**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.06933)] 
 
 
 
