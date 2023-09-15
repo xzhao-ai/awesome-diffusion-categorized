@@ -630,6 +630,10 @@
 [[ICML 2023 oral](https://arxiv.org/abs/2303.05125)] 
 [[Code](https://github.com/Johanan528/Cones)]
 
+**ITI-GEN: Inclusive Text-to-Image Generation** \
+[[ICCV 2023](https://arxiv.org/abs/2309.05569)] 
+[[Project](https://czhang0528.github.io/iti-gen)] 
+
 **Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2303.15433)] 
 [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
