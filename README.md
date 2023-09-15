@@ -61,6 +61,11 @@
 [[Project](https://mask-cond-video-diffusion.github.io/)] 
 [[Code](https://github.com/voletiv/mcvd-pytorch)]
 
+**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** \
+[[Website](https://arxiv.org/abs/2304.01186)]
+[[Project](https://follow-your-pose.github.io/)] 
+[[Code](https://github.com/mayuelala/FollowYourPose)]
+
 **Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2303.13744)]
 [[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
