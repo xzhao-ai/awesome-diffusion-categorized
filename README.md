@@ -1368,22 +1368,22 @@
 [[ICCV 2023](https://arxiv.org/abs/2303.03755)]
 [[Code](https://github.com/wix-incubator/DLT)]
 
+**LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.11589)]
+[[Code](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutDiffusion)]
+
+**LayoutDM: Transformer-based Diffusion Model for Layout Generation** \
+[[CVPR 2023](https://arxiv.org/abs/2305.02567)] 
+
 **Unifying Layout Generation with a Decoupled Diffusion Model** \
 [[CVPR 2023](https://arxiv.org/abs/2303.05049)]
 
 **PLay: Parametrically Conditioned Layout Generation using Latent Diffusion** \
 [[ICML 2023](https://arxiv.org/abs/2301.11529)]
 
-
-
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
 
-**LayoutDM: Transformer-based Diffusion Model for Layout Generation** \
-[[CVPR 2023](https://arxiv.org/abs/2305.02567)] 
-
-**LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** \
-[[Website](https://arxiv.org/abs/2303.11589)]
 
 
 ## Super Resolution
