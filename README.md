@@ -1111,6 +1111,10 @@
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
+**Progressive Text-to-Image Diffusion with Soft Latent Direction** \
+[[Website](https://arxiv.org/abs/2309.09466)] 
+[[Code](https://github.com/babahui/progressive-text-to-image)] 
+
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
@@ -1355,6 +1359,8 @@
 **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2212.05034)] 
 
+**Gradpaint: Gradient-Guided Inpainting with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.09614)] 
 
 
 ## Document Layout Generation
