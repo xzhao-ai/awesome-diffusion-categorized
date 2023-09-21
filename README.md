@@ -436,6 +436,8 @@
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://arxiv.org/abs/2309.04907)]
 
+**Face Aging via Diffusion-based Editing**\
+[[BMVC 2023](https://arxiv.org/abs/2309.11321)]
 
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
@@ -1105,6 +1107,11 @@
 **FABRIC: Personalizing Diffusion Models with Iterative Feedback** \
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
+
+**FreeU: Free Lunch in Diffusion U-Net** \
+[[Website](https://arxiv.org/abs/2309.11497)] 
+[[Code](https://github.com/ChenyangSi/FreeU)]
+[[Project](https://chenyangsi.top/FreeU/)] 
 
 **ConceptLab: Creative Generation using Diffusion Prior Constraints** \
 [[Website](https://arxiv.org/abs/2308.02669)] 
