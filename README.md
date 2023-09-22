@@ -909,6 +909,10 @@
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
+**Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16223)] 
+[[Code](https://github.com/SHI-Labs/Prompt-Free-Diffusion)] 
+
 **Progressive Text-to-Image Diffusion with Soft Latent Direction** \
 [[Website](https://arxiv.org/abs/2309.09466)] 
 [[Code](https://github.com/babahui/progressive-text-to-image)] 
