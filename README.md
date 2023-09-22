@@ -14,6 +14,7 @@
 - [Drag Image Edit](#drag-image-edit)
 - [Inpainting](#sd-inpaint)
 - [Doc Layout](#document-layout-generation)
+- [Text Generation](#text-generation)
 - [Super Resolution](#super-resolution)
 - [X2I/X2X](#x2i-x2x)
 - [Video Generation](#video-generation)
@@ -1192,6 +1193,27 @@
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
 
+
+
+## Text Generation
+
+**GlyphControl: Glyph Conditional Control for Visual Text Generation** \
+[[Website](https://arxiv.org/abs/2305.18259)]
+[[Code](https://github.com/AIGText/GlyphControl-release)] 
+
+**TextDiffuser: Diffusion Models as Text Painters** \
+[[Website](https://arxiv.org/abs/2305.10855)]
+[[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)] 
+[[Project](https://jingyechen.github.io/textdiffuser/)] 
+
+**Word-As-Image for Semantic Typography** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2303.01818)]
+[[Code](https://github.com/Shiriluz/Word-As-Image)] 
+[[Project](https://wordasimage.github.io/Word-As-Image-Page/)] 
+
+**Ambigram generation by a diffusion model** \
+[[ICDAR 2023](https://arxiv.org/abs/2306.12049)]
+[[Code](https://github.com/univ-esuty/ambifusion)] 
 
 
 ## Super Resolution
