@@ -1,7 +1,6 @@
 <!-- The superlink doesn't support uppercases -->
 
-- [Video Generation](#video-generation)
-- [Video Editing](#video-editing)
+
 - [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Editing](#text-guided-image-editing)
 - [Continual Learning](#continual-learning)
@@ -17,221 +16,9 @@
 - [Doc Layout](#document-layout-generation)
 - [Super Resolution](#super-resolution)
 - [X2I/X2X](#x2i-x2x)
+- [Video Generation](#video-generation)
+- [Video Editing](#video-editing)
 
-
-
-## Video Generation 
-
-⭐**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
-[[ICCV 2023 Oral](https://arxiv.org/abs/2303.13439)]
-[[Code](https://text2video-zero.github.io/)]
-[[Project](https://text2video-zero.github.io/)]
-
-⭐**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)]
-[[Website](https://arxiv.org/abs/2304.08818)]
-[[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] 
-[[Code](https://github.com/srpkdyy/VideoLDM)]
-
-⭐**MagicAvatar: Multimodal Avatar Generation and Animation** \
-[[Website](https://arxiv.org/abs/2308.14748)]
-[[Project](https://magic-avatar.github.io/)] 
-[[Code](https://github.com/magic-research/magic-avatar)]
-
-⭐**Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2204.03458)]
-[[ICLR 2022 workshop](https://openreview.net/forum?id=BBelR2NdDZ5)]
-[[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
-[[Project](https://video-diffusion.github.io/)] 
-
-⭐**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** \
-[[CVPR 2023](https://arxiv.org/abs/2303.08320)]
-[[Code](https://github.com/modelscope/modelscope)]
-
-**SinFusion: Training Diffusion Models on a Single Image or Video** \
-[[Website](https://arxiv.org/abs/2211.11743)]
-[[ICML 2023](https://icml.cc/virtual/2023/poster/24630)]
-[[Project](http://yaniv.nikankin.com/sinfusion/)] 
-[[Code](https://github.com/yanivnik/sinfusion-code)]
-
-**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
-[[Website](https://arxiv.org/abs/2205.09853)]
-[[openreview](https://openreview.net/forum?id=hX5Ia-ION8Y)]
-[[Neurips 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
-[[Project](https://mask-cond-video-diffusion.github.io/)] 
-[[Code](https://github.com/voletiv/mcvd-pytorch)]
-
-**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** \
-[[Website](https://arxiv.org/abs/2304.01186)]
-[[Project](https://follow-your-pose.github.io/)] 
-[[Code](https://github.com/mayuelala/FollowYourPose)]
-
-**Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
-[[CVPR 2023](https://arxiv.org/abs/2303.13744)]
-[[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
-
-**Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
-[[Website](https://arxiv.org/abs/2211.13221)]
-[[Project](https://yingqinghe.github.io/LVDM/)] 
-[[Code](https://github.com/YingqingHe/LVDM)]
-
-
-**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
-[[Website](https://arxiv.org/abs/2306.00943)]
-[[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
-[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
-
-**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.10474)]
-[[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
-[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
-
-**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising** \
-[[Website](https://arxiv.org/abs/2305.18264)]
-[[Code](https://github.com/G-U-N/Gen-L-Video)]
-[[Project](https://g-u-n.github.io/projects/gen-long-video/index.html)] 
-
-**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.13840)]
-[[Code](https://github.com/Weifeng-Chen/control-a-video)]
-[[Project](https://controlavideo.github.io/)] 
-
-**VideoComposer: Compositional Video Synthesis with Motion Controllability** \
-[[Website](https://arxiv.org/abs/2306.02018)]
-[[Project](https://videocomposer.github.io/)] 
-[[Code](https://github.com/damo-vilab/videocomposer)]
-
-**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** \
-[[Website](https://arxiv.org/abs/2304.06025)]
-[[Project](https://grail.cs.washington.edu/projects/dreampose/)] 
-[[Code](https://github.com/johannakarras/DreamPose)]
-
-**Diffusion Probabilistic Modeling for Video Generation** \
-[[Website](https://arxiv.org/abs/2203.09481)]
-[[Code](https://github.com/buggyyang/RVD)]
-
-**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation** \
-[[Website](https://arxiv.org/abs/2309.03549)]
-[[Project](https://anonymous0x233.github.io/ReuseAndDiffuse/)] 
-
-**Imagen Video: High Definition Video Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2210.02303)]
-[[Project](https://imagen.research.google/video/)] 
-
-
-**Dual-Stream Diffusion Net for Text-to-Video Generation** \
-[[Website](https://arxiv.org/abs/2308.08316)]
-
-
-**SimDA: Simple Diffusion Adapter for Efficient Video Generation** \
-[[Website](https://arxiv.org/abs/2308.09710)]
-
-**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** \
-[[Website](https://arxiv.org/abs/2305.10874)]
-
-**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** \
-[[Website](https://arxiv.org/abs/2308.13812)]
-
-
-## Video Editing 
-
-⭐**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
-[[ICCV 2023](https://arxiv.org/abs/2303.09535)]
-[[Code](https://github.com/ChenyangQiQi/FateZero)]
-[[Project](https://fate-zero-edit.github.io/)] 
-
-⭐**Video-P2P: Video Editing with Cross-attention Control** \
-[[Website](https://arxiv.org/abs/2303.04761)]
-[[Code](https://github.com/ShaoTengLiu/Video-P2P)]
-[[Project](https://video-p2p.github.io/)] 
-
-⭐**Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.17599)]
-[[Code](https://github.com/baaivision/vid2vid-zero)]
-
-⭐**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
-[[Website](https://arxiv.org/abs/2308.07926)]
-[[Code](https://github.com/qiuyu96/CoDeF)]
-[[Project](https://qiuyu96.github.io/CoDeF/)]
-
-⭐**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**\
-[[Website](https://arxiv.org/abs/2308.14749)]
-[[Project](https://magic-edit.github.io/)] 
-[[Code](https://github.com/magic-research/magic-edit)] 
-
-
-
-**Edit Temporal-Consistent Videos with Image Diffusion Model** \
-[[Website](https://arxiv.org/abs/2308.09091)]
-
-**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** \
-[[ICCV 2023](https://arxiv.org/abs/2212.11565)]
-[[Code](https://github.com/showlab/Tune-A-Video)]
-[[Project](https://tuneavideo.github.io/)]
-
-**TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
-[[Website](https://arxiv.org/abs/2307.10373)]
-[[Code](https://github.com/omerbt/TokenFlow)]
-[[Project](https://diffusion-tokenflow.github.io/)] 
-
-**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing** \
-[[Website](https://arxiv.org/abs/2305.17098)]
-[[Code](https://github.com/thu-ml/controlvideo)]
-[[Project](https://ml.cs.tsinghua.edu.cn/controlvideo/)] 
-
-**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts** \
-[[Website](https://arxiv.org/abs/2305.08850)]
-[[Code](https://github.com/Make-A-Protagonist/Make-A-Protagonist)]
-[[Project](https://make-a-protagonist.github.io/)] 
-
-**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** \
-[[CVPR 2023](https://arxiv.org/abs/2212.02802)]
-[[Code](https://github.com/man805/Diffusion-Video-Autoencoders)] 
-[[Project](https://diff-video-ae.github.io/)] 
-
-**Text2LIVE: Text-Driven Layered Image and Video Editing** \
-[[ECCV 2022 Oral](https://arxiv.org/abs/2204.02491)]
-[[Project](https://text2live.github.io/)] 
-[[code](https://github.com/omerbt/Text2LIVE)]
-
-**StableVideo: Text-driven Consistency-aware Diffusion Video Editing** \
-[[ICCV2023](https://arxiv.org/abs/2308.09592)]
-[[Code](https://github.com/rese1f/stablevideo)] 
-
-**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
-[[Website](https://arxiv.org/abs/2305.05464)]
-[[Code](https://github.com/haha-lisa/style-a-video)] 
-
-**MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation** \
-[[Website](https://arxiv.org/abs/2309.00908)]
-
-**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
-[[Website](https://arxiv.org/abs//2306.08707)]
-[[Project](https://videdit.github.io/)] 
-
-**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** \
-[[Website](https://arxiv.org/abs/2306.07954)]
-[[Project](https://anonymous-31415926.github.io/)] 
-
-**Shape-Aware Text-Driven Layered Video Editing** \
-[[CVPR 2023](https://arxiv.org/abs/2301.13173)]
-[[Project](https://text-video-edit.github.io/#)] 
-
-**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
-[[Website](https://arxiv.org/abs/2308.10079)]
-[[Project](https://medm2023.github.io)]
-
-**Pix2video: Video Editing Using Image Diffusion** \
-[[Website](https://arxiv.org/abs/2303.12688)]
-
-**Dreamix: Video Diffusion Models Are General Video Editors** \
-[[Website](https://arxiv.org/abs/2302.01329)]
-
-**Towards Consistent Video Editing with Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.17431)]
-
-**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints** \
-[[Website](https://arxiv.org/abs/2308.10648)]
 
 
 
@@ -1441,3 +1228,218 @@
 [[Website](https://arxiv.org/abs/2305.11846)]
 [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
 [[Project](https://codi-gen.github.io/)] 
+
+
+
+## Video Generation 
+
+⭐**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
+[[ICCV 2023 Oral](https://arxiv.org/abs/2303.13439)]
+[[Code](https://text2video-zero.github.io/)]
+[[Project](https://text2video-zero.github.io/)]
+
+⭐**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Website](https://arxiv.org/abs/2304.08818)]
+[[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] 
+[[Code](https://github.com/srpkdyy/VideoLDM)]
+
+⭐**MagicAvatar: Multimodal Avatar Generation and Animation** \
+[[Website](https://arxiv.org/abs/2308.14748)]
+[[Project](https://magic-avatar.github.io/)] 
+[[Code](https://github.com/magic-research/magic-avatar)]
+
+⭐**Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2204.03458)]
+[[ICLR 2022 workshop](https://openreview.net/forum?id=BBelR2NdDZ5)]
+[[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
+[[Project](https://video-diffusion.github.io/)] 
+
+⭐**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** \
+[[CVPR 2023](https://arxiv.org/abs/2303.08320)]
+[[Code](https://github.com/modelscope/modelscope)]
+
+**SinFusion: Training Diffusion Models on a Single Image or Video** \
+[[Website](https://arxiv.org/abs/2211.11743)]
+[[ICML 2023](https://icml.cc/virtual/2023/poster/24630)]
+[[Project](http://yaniv.nikankin.com/sinfusion/)] 
+[[Code](https://github.com/yanivnik/sinfusion-code)]
+
+**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
+[[Website](https://arxiv.org/abs/2205.09853)]
+[[openreview](https://openreview.net/forum?id=hX5Ia-ION8Y)]
+[[Neurips 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
+[[Project](https://mask-cond-video-diffusion.github.io/)] 
+[[Code](https://github.com/voletiv/mcvd-pytorch)]
+
+**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** \
+[[Website](https://arxiv.org/abs/2304.01186)]
+[[Project](https://follow-your-pose.github.io/)] 
+[[Code](https://github.com/mayuelala/FollowYourPose)]
+
+**Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2303.13744)]
+[[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
+
+**Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
+[[Website](https://arxiv.org/abs/2211.13221)]
+[[Project](https://yingqinghe.github.io/LVDM/)] 
+[[Code](https://github.com/YingqingHe/LVDM)]
+
+
+**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
+[[Website](https://arxiv.org/abs/2306.00943)]
+[[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
+[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
+**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.10474)]
+[[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
+[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
+**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising** \
+[[Website](https://arxiv.org/abs/2305.18264)]
+[[Code](https://github.com/G-U-N/Gen-L-Video)]
+[[Project](https://g-u-n.github.io/projects/gen-long-video/index.html)] 
+
+**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.13840)]
+[[Code](https://github.com/Weifeng-Chen/control-a-video)]
+[[Project](https://controlavideo.github.io/)] 
+
+**VideoComposer: Compositional Video Synthesis with Motion Controllability** \
+[[Website](https://arxiv.org/abs/2306.02018)]
+[[Project](https://videocomposer.github.io/)] 
+[[Code](https://github.com/damo-vilab/videocomposer)]
+
+**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2304.06025)]
+[[Project](https://grail.cs.washington.edu/projects/dreampose/)] 
+[[Code](https://github.com/johannakarras/DreamPose)]
+
+**Diffusion Probabilistic Modeling for Video Generation** \
+[[Website](https://arxiv.org/abs/2203.09481)]
+[[Code](https://github.com/buggyyang/RVD)]
+
+**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2309.03549)]
+[[Project](https://anonymous0x233.github.io/ReuseAndDiffuse/)] 
+
+**Imagen Video: High Definition Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2210.02303)]
+[[Project](https://imagen.research.google/video/)] 
+
+
+**Dual-Stream Diffusion Net for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2308.08316)]
+
+
+**SimDA: Simple Diffusion Adapter for Efficient Video Generation** \
+[[Website](https://arxiv.org/abs/2308.09710)]
+
+**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2305.10874)]
+
+**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** \
+[[Website](https://arxiv.org/abs/2308.13812)]
+
+
+## Video Editing 
+
+⭐**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
+[[ICCV 2023](https://arxiv.org/abs/2303.09535)]
+[[Code](https://github.com/ChenyangQiQi/FateZero)]
+[[Project](https://fate-zero-edit.github.io/)] 
+
+⭐**Video-P2P: Video Editing with Cross-attention Control** \
+[[Website](https://arxiv.org/abs/2303.04761)]
+[[Code](https://github.com/ShaoTengLiu/Video-P2P)]
+[[Project](https://video-p2p.github.io/)] 
+
+⭐**Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.17599)]
+[[Code](https://github.com/baaivision/vid2vid-zero)]
+
+⭐**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
+[[Website](https://arxiv.org/abs/2308.07926)]
+[[Code](https://github.com/qiuyu96/CoDeF)]
+[[Project](https://qiuyu96.github.io/CoDeF/)]
+
+⭐**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**\
+[[Website](https://arxiv.org/abs/2308.14749)]
+[[Project](https://magic-edit.github.io/)] 
+[[Code](https://github.com/magic-research/magic-edit)] 
+
+
+
+**Edit Temporal-Consistent Videos with Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2308.09091)]
+
+**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** \
+[[ICCV 2023](https://arxiv.org/abs/2212.11565)]
+[[Code](https://github.com/showlab/Tune-A-Video)]
+[[Project](https://tuneavideo.github.io/)]
+
+**TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
+[[Website](https://arxiv.org/abs/2307.10373)]
+[[Code](https://github.com/omerbt/TokenFlow)]
+[[Project](https://diffusion-tokenflow.github.io/)] 
+
+**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing** \
+[[Website](https://arxiv.org/abs/2305.17098)]
+[[Code](https://github.com/thu-ml/controlvideo)]
+[[Project](https://ml.cs.tsinghua.edu.cn/controlvideo/)] 
+
+**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts** \
+[[Website](https://arxiv.org/abs/2305.08850)]
+[[Code](https://github.com/Make-A-Protagonist/Make-A-Protagonist)]
+[[Project](https://make-a-protagonist.github.io/)] 
+
+**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** \
+[[CVPR 2023](https://arxiv.org/abs/2212.02802)]
+[[Code](https://github.com/man805/Diffusion-Video-Autoencoders)] 
+[[Project](https://diff-video-ae.github.io/)] 
+
+**Text2LIVE: Text-Driven Layered Image and Video Editing** \
+[[ECCV 2022 Oral](https://arxiv.org/abs/2204.02491)]
+[[Project](https://text2live.github.io/)] 
+[[code](https://github.com/omerbt/Text2LIVE)]
+
+**StableVideo: Text-driven Consistency-aware Diffusion Video Editing** \
+[[ICCV2023](https://arxiv.org/abs/2308.09592)]
+[[Code](https://github.com/rese1f/stablevideo)] 
+
+**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
+[[Website](https://arxiv.org/abs/2305.05464)]
+[[Code](https://github.com/haha-lisa/style-a-video)] 
+
+**MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation** \
+[[Website](https://arxiv.org/abs/2309.00908)]
+
+**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
+[[Website](https://arxiv.org/abs//2306.08707)]
+[[Project](https://videdit.github.io/)] 
+
+**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** \
+[[Website](https://arxiv.org/abs/2306.07954)]
+[[Project](https://anonymous-31415926.github.io/)] 
+
+**Shape-Aware Text-Driven Layered Video Editing** \
+[[CVPR 2023](https://arxiv.org/abs/2301.13173)]
+[[Project](https://text-video-edit.github.io/#)] 
+
+**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
+[[Website](https://arxiv.org/abs/2308.10079)]
+[[Project](https://medm2023.github.io)]
+
+**Pix2video: Video Editing Using Image Diffusion** \
+[[Website](https://arxiv.org/abs/2303.12688)]
+
+**Dreamix: Video Diffusion Models Are General Video Editors** \
+[[Website](https://arxiv.org/abs/2302.01329)]
+
+**Towards Consistent Video Editing with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.17431)]
+
+**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints** \
+[[Website](https://arxiv.org/abs/2308.10648)]
