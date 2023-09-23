@@ -406,7 +406,7 @@
 [[Project](https://hiper0.github.io/)] 
 
 **BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
-[[Website](https://arxiv.org/abs/2305.14720)] 
+[[Neurips 2023](https://arxiv.org/abs/2305.14720)] 
 [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 [[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
 
