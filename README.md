@@ -859,7 +859,7 @@
 [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
 
 **Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment** \
-[[Website](https://arxiv.org/abs/2306.08877)] 
+[[Neurips 2023](https://arxiv.org/abs/2306.08877)] 
 [[Code](https://github.com/RoyiRa/Syntax-Guided-Generation)]
 
 **ORES: Open-vocabulary Responsible Visual Synthesis** \
