@@ -1006,6 +1006,10 @@
 [[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
 [[Code](https://github.com/shoufachen/diffusiondet)]
 
+**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation** \
+[[Website](https://arxiv.org/abs/2309.13042)] 
+[[Code](https://github.com/Jiahao000/MosaicFusion)]
+
 **Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation** \
 [[Website](https://arxiv.org/abs/2309.05956)] 
 [[Code](https://github.com/gyhandy/Text2Image-for-Detection)]
