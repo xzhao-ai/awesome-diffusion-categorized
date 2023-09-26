@@ -858,6 +858,10 @@
 [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
 [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
 
+**ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** \
+[[Neurips 2023](https://arxiv.org/abs/2304.05977)] 
+[[Code](https://github.com/THUDM/ImageReward)]
+
 **Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment** \
 [[Neurips 2023](https://arxiv.org/abs/2306.08877)] 
 [[Code](https://github.com/RoyiRa/Syntax-Guided-Generation)]
@@ -1306,6 +1310,10 @@
 [[Website](https://arxiv.org/abs/2304.01186)]
 [[Project](https://follow-your-pose.github.io/)] 
 [[Code](https://github.com/mayuelala/FollowYourPose)]
+
+**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** \
+[[Neurips 2023](https://arxiv.org/abs/2309.13274)]
+[[Code](https://github.com/iva-mzsun/glober)]
 
 **Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2303.13744)]
