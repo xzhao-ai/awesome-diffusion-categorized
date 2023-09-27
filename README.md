@@ -260,6 +260,8 @@
 **MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers** \
 [[Website](https://arxiv.org/abs/2309.04372)]
 
+**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing** \
+[[Website](https://arxiv.org/abs/2309.14934)]
 
 # Continual Learning
 
@@ -1354,6 +1356,15 @@
 [[Website](https://arxiv.org/abs/2304.06025)]
 [[Project](https://grail.cs.washington.edu/projects/dreampose/)] 
 [[Code](https://github.com/johannakarras/DreamPose)]
+
+**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.15103)]
+[[Project](https://vchitect.github.io/LaVie-project/)] 
+[[Code](https://github.com/Vchitect/LaVie)]
+
+**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
+[[NeurIPS 2023](https://arxiv.org/abs/2309.14494)]
+[[Code](https://github.com/SooLab/Free-Bloom)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
