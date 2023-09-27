@@ -154,6 +154,11 @@
 [[Code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)] 
 [[Demo](https://huggingface.co/spaces/PAIR/PAIR-Diffusion)]
 
+**Collaborative Score Distillation for Consistent Visual Synthesis** \
+[[Neurips 2023](https://arxiv.org/abs/2307.04787)] 
+[[Project](https://subin-kim-cv.github.io/CSD/)] 
+[[Code](https://github.com/subin-kim-cv/CSD)]
+
 
 **Localizing Object-level Shape Variations with Text-to-Image Diffusion Models** \
 [[ICCV 2023](https://arxiv.org/abs/2303.11306)] 
@@ -1206,6 +1211,9 @@
 
 
 ## Text Generation
+**DiffUTE: Universal Text Editing Diffusion Model** \
+[[Neurips 2023](https://arxiv.org/abs/2305.10825)]
+[[Code](https://github.com/chenhaoxing/DiffUTE)] 
 
 **GlyphControl: Glyph Conditional Control for Visual Text Generation** \
 [[Website](https://arxiv.org/abs/2305.18259)]
