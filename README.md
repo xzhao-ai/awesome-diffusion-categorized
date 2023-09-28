@@ -146,8 +146,12 @@
 [[Code](https://github.com/sen-mao/StyleDiffusion)] 
 
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Neurips 2023](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
+**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing** \
+[[Neurips 2023](https://arxiv.org/abs/2309.15664)] 
+[[Code](https://github.com/wangkai930418/DPL)] 
 
 **PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17546)] 
