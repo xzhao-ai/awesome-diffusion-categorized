@@ -1052,6 +1052,9 @@
 **From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.04109)] 
 
+**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation** \
+[[Website](https://arxiv.org/abs/2309.15726)] 
+
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -1369,6 +1372,11 @@
 [[Website](https://arxiv.org/abs/2309.15103)]
 [[Project](https://vchitect.github.io/LaVie-project/)] 
 [[Code](https://github.com/Vchitect/LaVie)]
+
+**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2309.15818)]
+[[Project](https://showlab.github.io/Show-1/)] 
+[[Code](https://github.com/showlab/Show-1)]
 
 **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
 [[NeurIPS 2023](https://arxiv.org/abs/2309.14494)]
