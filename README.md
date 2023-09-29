@@ -251,6 +251,9 @@
 **Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.04441)]
 
+**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing** \
+[[Website](https://arxiv.org/abs/2309.16608)]
+
 **User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques** \
 [[Website](https://arxiv.org/abs/2306.02717)]
 
@@ -1512,3 +1515,6 @@
 
 **EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints** \
 [[Website](https://arxiv.org/abs/2308.10648)]
+
+**CCEdit: Creative and Controllable Video Editing via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.16496)]
