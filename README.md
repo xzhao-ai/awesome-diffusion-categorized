@@ -13,6 +13,7 @@
 - [Few-Shot](#few-shot)
 - [Drag Image Edit](#drag-image-edit)
 - [Inpainting](#sd-inpaint)
+- [Image Editing](#image-editing)
 - [Doc Layout](#document-layout-generation)
 - [Text Generation](#text-generation)
 - [Super Resolution](#super-resolution)
@@ -54,6 +55,10 @@
 
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.07825)] 
+
+**Score-Based Diffusion Models as Principled Priors for Inverse Imaging**
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Score-Based_Diffusion_Models_as_Principled_Priors_for_Inverse_Imaging_ICCV_2023_paper.pdf)]
+
 
 
 ## Text Guided Image Editing
@@ -305,6 +310,8 @@
 
 **DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation** \
 [[Website](https://arxiv.org/abs/2308.01127)] 
+
+
 
 # Remove Concept
 
@@ -583,8 +590,17 @@
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.06933)] 
 
+**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_Denoising_Diffusion_Autoencoders_are_Unified_Self-supervised_Learners_ICCV_2023_paper.pdf)]
+[[Code](github.com/FutureXiang/ddae)]
 
+**Diffusion Model as Representation Learner**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Diffusion_Model_as_Representation_Learner_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/Adamdad/Repfusion)]
 
+**Diffusion Models as Masked Autoencoders**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Diffusion_Models_as_Masked_Autoencoders_ICCV_2023_paper.pdf)]
+[[Project](https://weichen582.github.io/diffmae.html)]
 
 # Additional conditions 
 
@@ -1067,6 +1083,14 @@
 **Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation** \
 [[Website](https://arxiv.org/abs/2309.15726)] 
 
+**Stochastic Segmentation with Conditional Categorical Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.pdf)]
+
+**LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/PNVR_LD-ZNet_A_Latent_Diffusion_Approach_for_Text-Based_Image_Segmentation_ICCV_2023_paper.pdf)]
+[[Project](https://koutilya-pnvr.github.io/LD-ZNet/)]
+[[Code](https://github.com/koutilya-pnvr/LD-ZNet)]
+
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -1195,6 +1219,22 @@
 **Gradpaint: Gradient-Guided Inpainting with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.09614)] 
 
+## Image Editing
+
+**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative
+Diffusion Model** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yi_Diff-Retinex_Rethinking_Low-light_Image_Enhancement_with_A_Generative_Diffusion_Model_ICCV_2023_paper.pdf)]
+
+**Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/YSerin/ZeCon)]
+
+**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)]
+
+**Editing Implicit Assumptions in Text-to-Image Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Orgad_Editing_Implicit_Assumptions_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)]
+
 
 ## Document Layout Generation
 
@@ -1276,6 +1316,13 @@
 
 **YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2308.07977)]
+
+**HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
+
+**DiffIR: Efficient Diffusion Model for Image Restoration**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/Zj-BinXia/DiffIR)]
 
 ## X2I X2X
 
