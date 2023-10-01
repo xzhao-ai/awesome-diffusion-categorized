@@ -714,7 +714,13 @@
 **LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation** \
 [[Website]](https://arxiv.org/abs/2302.08908) 
 
+**SketchKnitter: Vectorized Sketch Generation with Diffusion Models** \
+[[ICLR 2023](https://openreview.net/pdf?id=4eJ43EN2g6l)]
+[[Code](https://github.com/XDUWQ/SketchKnitter/tree/75ded224e91f5ecf7e225c031b32cb97508443b9)]
 
+**Palette: Image-to-Image Diffusion Models**\
+[[SIGGRAPH 2022](https://arxiv.org/pdf/2111.05826.pdf)]
+[[Website](https://iterative-refinement.github.io/palette/)]
 # Spatial Control
 
 ⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -824,7 +830,6 @@
 
 **Zero-shot spatial layout conditioning for text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2306.13754)] 
-
 
 
 # T2I Diffusion Model augmentation
