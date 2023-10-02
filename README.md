@@ -7,6 +7,7 @@
 - [Remove Concept](#remove-concept)
 - [New Concept Learning](#new-concept-learning)
 - [Additional Conditions](#additional-conditions)
+- [Representation Learning](#representation-learning)
 - [Spatial Control](#spatial-control)
 - [T2I Model augmentation](#t2i-diffusion-model-augmentation)
 - [Seg & Detect & Track](#segmentation-detection-tracking)
@@ -590,6 +591,9 @@
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.06933)] 
 
+
+# Representation Learning
+
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_Denoising_Diffusion_Autoencoders_are_Unified_Self-supervised_Learners_ICCV_2023_paper.pdf)]
 [[Code](github.com/FutureXiang/ddae)]
@@ -910,7 +914,7 @@
 [[Code](https://github.com/ml-research/fair-diffusion)]
 
 **Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.08084)] 
+[[ICCV 2023](https://arxiv.org/abs/2303.08084)] 
 [[Project](https://time-diffusion.github.io/)] 
 [[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
@@ -1221,8 +1225,7 @@
 
 ## Image Editing
 
-**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative
-Diffusion Model** \
+**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yi_Diff-Retinex_Rethinking_Low-light_Image_Enhancement_with_A_Generative_Diffusion_Model_ICCV_2023_paper.pdf)]
 
 **Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer** \
@@ -1232,8 +1235,7 @@ Diffusion Model** \
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)]
 
-**Editing Implicit Assumptions in Text-to-Image Diffusion Models**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Orgad_Editing_Implicit_Assumptions_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)]
+
 
 
 ## Document Layout Generation
