@@ -1439,6 +1439,12 @@
 [[Project](https://showlab.github.io/Show-1/)] 
 [[Code](https://github.com/showlab/Show-1)]
 
+
+**LLM-GROUNDED VIDEO DIFFUSION MODELS** \
+[[Website](https://arxiv.org/abs/2309.17444)]
+[[Project](https://llm-grounded-video-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)]
+
 **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
 [[NeurIPS 2023](https://arxiv.org/abs/2309.14494)]
 [[Code](https://github.com/SooLab/Free-Bloom)]
