@@ -1541,6 +1541,14 @@
 [[ICCV2023](https://arxiv.org/abs/2308.09592)]
 [[Code](https://github.com/rese1f/stablevideo)] 
 
+
+**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**\
+[[Website](https://arxiv.org/abs/2310.01107)]
+[[Project](https://ground-a-video.github.io/)]
+[[Code](https://github.com/Ground-A-Video/Ground-A-Video)] 
+
+
+
 **Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
 [[Website](https://arxiv.org/abs/2305.05464)]
 [[Code](https://github.com/haha-lisa/style-a-video)] 
