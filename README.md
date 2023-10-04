@@ -46,6 +46,10 @@
 ⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
+⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
+[[Website](https://arxiv.org/abs/2310.01506)] 
+[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
+
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[Website](https://arxiv.org/abs/2211.12446)] 
 [[Code](https://github.com/salesforce/edict)] 
@@ -128,6 +132,10 @@
 [[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/diffedit)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
+
+⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
+[[Website](https://arxiv.org/abs/2310.01506)] 
+[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
 
 **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
 [[ICCV 2023](https://arxiv.org/abs/2304.08465)] 
@@ -968,6 +976,10 @@
 **Diffusion Self-Guidance for Controllable Image Generation** \
 [[Website](https://arxiv.org/abs/2306.00986)] 
 [[Project](https://dave.ml/selfguidance/)] 
+
+**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2310.01819)] 
+[[Project](https://asst2i.github.io/anon/)] 
 
 **Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
 [[Website](https://arxiv.org/abs/2307.10864)] 
