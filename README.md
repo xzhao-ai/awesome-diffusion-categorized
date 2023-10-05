@@ -137,6 +137,12 @@
 [[Website](https://arxiv.org/abs/2310.01506)] 
 [[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
 
+⭐**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods** \
+[[Website](https://arxiv.org/abs/2310.02426)] 
+[[Code](https://github.com/deep-ml-research/editval_code)] 
+[[Project](https://deep-ml-research.github.io/editval/#home)] 
+
+
 **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
 [[ICCV 2023](https://arxiv.org/abs/2304.08465)] 
 [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
@@ -1224,6 +1230,10 @@
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
+**MAGICREMOVER: TUNING-FREE TEXT-GUIDED IMAGE INPAINTING WITH DIFFUSION MODELS** \
+[[Website](https://arxiv.org/abs/2310.02848)] 
+[[Code](https://github.com/exisas/Magicremover)] 
 
 **360-Degree Panorama Generation from Few Unregistered NFoV Images** \
 [[ACM MM 2023](https://arxiv.org/abs/2308.14686)] 
