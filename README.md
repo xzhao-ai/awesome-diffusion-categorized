@@ -206,8 +206,9 @@
 
 
 **Visual Instruction Inversion: Image Editing via Visual Prompting** \
-[[Website](https://arxiv.org/abs/2307.14331)] 
+[[Neurips 2023](https://arxiv.org/abs/2307.14331)] 
 [[Project](https://thaoshibe.github.io/visii/)] 
+[[Code](https://github.com/thaoshibe/visii)] 
 
 **MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path** \
 [[Website](https://arxiv.org/abs/2303.16765)] 
