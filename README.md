@@ -35,7 +35,11 @@
 [[Project](https://null-text-inversion.github.io/)] 
 [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
-⭐⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
+⭐⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
+[[Website](https://arxiv.org/abs/2310.01506)] 
+[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
+
+⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
 [[Website](https://arxiv.org/abs/2306.05414)] 
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
@@ -46,9 +50,6 @@
 ⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
-⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
-[[Website](https://arxiv.org/abs/2310.01506)] 
-[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[Website](https://arxiv.org/abs/2211.12446)] 
@@ -61,7 +62,8 @@
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.07825)] 
 
-**Score-Based Diffusion Models as Principled Priors for Inverse Imaging**
+**Score-Based Diffusion Models as Principled Priors for Inverse Imaging** \
+[[Website](https://arxiv.org/abs/2304.11751)] 
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Score-Based_Diffusion_Models_as_Principled_Priors_for_Inverse_Imaging_ICCV_2023_paper.pdf)]
 
 
