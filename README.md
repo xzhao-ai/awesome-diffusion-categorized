@@ -966,7 +966,7 @@
 [[Code](https://github.com/kfirgoldberg/ConceptLab)]
 [[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
 
-**Aligning Text-to-Image Diffusion Models with Reward Backpropagationn**
+**Aligning Text-to-Image Diffusion Models with Reward Backpropagationn** \
 [[Website](https://arxiv.org/abs/2310.03739)] 
 [[Code](https://github.com/mihirp1998/AlignProp/)]
 [[Project](https://align-prop.github.io/)] 
