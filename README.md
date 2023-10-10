@@ -361,6 +361,8 @@
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
 
+**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.05873)] 
 
 
 # New Concept Learning
