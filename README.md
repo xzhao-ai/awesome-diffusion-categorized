@@ -1586,6 +1586,10 @@
 **MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation** \
 [[Website](https://arxiv.org/abs/2309.00908)]
 
+**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing** \
+[[Website](https://arxiv.org/abs/2310.05922)]
+[[Project](https://flatten-video-editing.github.io/)] 
+
 **VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
 [[Website](https://arxiv.org/abs//2306.08707)]
 [[Project](https://videdit.github.io/)] 
