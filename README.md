@@ -760,6 +760,13 @@
 **Palette: Image-to-Image Diffusion Models**\
 [[SIGGRAPH 2022](https://arxiv.org/pdf/2111.05826.pdf)]
 [[Website](https://iterative-refinement.github.io/palette/)]
+
+**JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling** \
+[[Website]](https://arxiv.org/abs/2310.06347) 
+
+
+
+
 # Spatial Control
 
 ⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -1035,6 +1042,8 @@
 **Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.14408)] 
 
+**Improving Compositional Text-to-image Generation with Large Vision-Language Models** \
+[[Website](https://arxiv.org/abs/2310.06311)] 
 
 
 
