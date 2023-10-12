@@ -980,6 +980,16 @@
 [[Code](https://github.com/mihirp1998/AlignProp/)]
 [[Project](https://align-prop.github.io/)] 
 
+**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** \
+[[Website](https://arxiv.org/abs/2310.07653)] 
+[[Code](https://github.com/Zeqiang-Lai/Mini-DALLE3)]
+[[Project](https://minidalle3.github.io/)] 
+
+**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.07702)] 
+[[Code](https://github.com/YingqingHe/ScaleCrafter)]
+[[Project](https://yingqinghe.github.io/scalecrafter/)] 
+
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
@@ -1045,6 +1055,8 @@
 **Improving Compositional Text-to-image Generation with Large Vision-Language Models** \
 [[Website](https://arxiv.org/abs/2310.06311)] 
 
+**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else** \
+[[Website](https://arxiv.org/abs/2310.07419)] 
 
 
 <!-- # Watermark
@@ -1249,6 +1261,10 @@
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
+**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model** \
+[[Website](https://arxiv.org/abs/2310.07222)] 
+[[Code](https://github.com/ysy31415/unipaint)] 
 
 **MAGICREMOVER: TUNING-FREE TEXT-GUIDED IMAGE INPAINTING WITH DIFFUSION MODELS** \
 [[Website](https://arxiv.org/abs/2310.02848)] 
@@ -1515,6 +1531,9 @@
 
 **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** \
 [[Website](https://arxiv.org/abs/2308.13812)]
+
+**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2310.07697)]
 
 
 ## Video Editing 
