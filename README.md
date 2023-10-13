@@ -504,6 +504,11 @@
 [[Code](https://github.com/Zeju1997/oft)]
 [[Project](https://oft.wyliu.com/)] 
 
+**SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
+[[Website](https://arxiv.org/abs/2310.08094)] 
+[[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
+[[Code](https://github.com/JarrentWu1031/SingleInsert)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[Website](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -556,6 +561,8 @@
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
 [[Project](https://prompt-plus.github.io/)] 
+
+
 
 **Photoswap: Personalized Subject Swapping in Images** \
 [[Website](https://arxiv.org/abs/2305.18286)] 
