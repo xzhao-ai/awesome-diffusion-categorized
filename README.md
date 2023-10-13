@@ -691,6 +691,10 @@
 [[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)]
 [[Project](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)] 
 
+**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion** \
+[[Website](https://arxiv.org/abs/2310.08579)] 
+[[Code](https://github.com/snap-research/HyperHuman)]
+[[Project](https://snap-research.github.io/HyperHuman/)] 
 
 **Freestyle Layout-to-Image Synthesis** \
 [[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
@@ -1586,6 +1590,11 @@
 [[Website](https://arxiv.org/abs/2305.08850)]
 [[Code](https://github.com/Make-A-Protagonist/Make-A-Protagonist)]
 [[Project](https://make-a-protagonist.github.io/)] 
+
+**MotionDirector: Motion Customization of Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.08465)]
+[[Code](https://github.com/showlab/MotionDirector)]
+[[Project](https://showlab.github.io/MotionDirector/)] 
 
 **Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** \
 [[CVPR 2023](https://arxiv.org/abs/2212.02802)]
