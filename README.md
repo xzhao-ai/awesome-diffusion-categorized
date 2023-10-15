@@ -14,7 +14,7 @@
 - [Few-Shot](#few-shot)
 - [Drag Image Edit](#drag-image-edit)
 - [Inpainting](#sd-inpaint)
-- [Image Editing](#image-editing)
+- [Image Translation](#i2i-translation)
 - [Doc Layout](#document-layout-generation)
 - [Text Generation](#text-generation)
 - [Super Resolution](#super-resolution)
@@ -1291,7 +1291,32 @@
 **Gradpaint: Gradient-Guided Inpainting with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.09614)] 
 
-## Image Editing
+## I2I translation
+
+⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
+[[Website](https://arxiv.org/abs/2108.01073)] 
+[[ICLR 2022](https://openreview.net/forum?id=aBsCjcPu_tE)] 
+[[Project](https://sde-image-editing.github.io/)] 
+[[Code](https://github.com/ermongroup/SDEdit)] 
+
+⭐**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
+[[Website](https://arxiv.org/abs/2110.02711)]
+[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)]
+[[Code](https://github.com/gwang-kim/DiffusionCLIP)]
+
+**Diffusion-based Image Translation using Disentangled Style and Content Representation** \
+[[Website](https://arxiv.org/abs/2209.15264)]
+[[ICLR 2023](https://openreview.net/forum?id=Nayau9fwXU)]
+[[Code](https://github.com/cyclomon/DiffuseIT)]
+
+**Diffusion Guided Domain Adaptation of Image Generators** \
+[[Website](https://arxiv.org/abs/2212.04473)]
+[[Code](https://github.com/KunpengSong/styleganfusion)]
+[[Project](https://styleganfusion.github.io/)] 
+
+**FlexIT: Towards Flexible Semantic Image Translation** \
+[[Website](https://arxiv.org/abs/2203.04705)]
+[[Code](https://github.com/facebookresearch/semanticimagetranslation)]
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yi_Diff-Retinex_Rethinking_Low-light_Image_Enhancement_with_A_Generative_Diffusion_Model_ICCV_2023_paper.pdf)]
