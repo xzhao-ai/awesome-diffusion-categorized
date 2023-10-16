@@ -1332,6 +1332,10 @@
 [[Website](https://arxiv.org/abs/2203.04705)]
 [[Code](https://github.com/facebookresearch/semanticimagetranslation)]
 
+**Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
+[[Website](https://arxiv.org/abs/2306.04396)]
+[[Code](https://github.com/submissionanon18/agg)]
+
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yi_Diff-Retinex_Rethinking_Low-light_Image_Enhancement_with_A_Generative_Diffusion_Model_ICCV_2023_paper.pdf)]
 
