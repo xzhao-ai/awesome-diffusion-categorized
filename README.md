@@ -888,6 +888,8 @@
 **Zero-shot spatial layout conditioning for text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2306.13754)] 
 
+**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2310.08872)] 
 
 # T2I Diffusion Model augmentation
 
@@ -1013,6 +1015,18 @@
 [[Website](https://arxiv.org/abs/2309.09466)] 
 [[Code](https://github.com/babahui/progressive-text-to-image)] 
 
+**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy** \
+[[Website](https://arxiv.org/abs/2310.09247)] 
+[[Code](https://github.com/yandex-research/text-to-img-hypernymy)]
+
+**If at First You Don’t Succeed, Try, Try Again:Faithful Diffusion-based Text-to-Image Generation by Selection** \
+[[Website](https://arxiv.org/abs/2305.13308)] 
+[[Code](https://github.com/ExplainableML/ImageSelect)]
+
+**Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** \
+[[Website](https://arxiv.org/abs/2310.08949)] 
+[[Code](https://github.com/zxy556677/EasyGen)]
+
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
@@ -1050,9 +1064,7 @@
 **Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling** \
 [[Website](https://arxiv.org/abs/2307.03992)] 
 
-**If at First You Don’t Succeed, Try, Try Again:Faithful Diffusion-based Text-to-Image Generation by Selection** \
-[[Website](https://arxiv.org/abs/2305.13308)] 
-[[Code](https://github.com/ExplainableML/ImageSelect)]
+
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -1069,6 +1081,8 @@
 **Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else** \
 [[Website](https://arxiv.org/abs/2310.07419)] 
 
+**Unseen Image Synthesis with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.09213)] 
 
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
