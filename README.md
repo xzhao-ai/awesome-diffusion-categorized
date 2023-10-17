@@ -1023,6 +1023,10 @@
 [[Website](https://arxiv.org/abs/2305.13308)] 
 [[Code](https://github.com/ExplainableML/ImageSelect)]
 
+**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** \
+[[Website](https://arxiv.org/abs/2310.10640)] 
+[[Code](https://github.com/hananshafi/llmblueprint)]
+
 **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** \
 [[Website](https://arxiv.org/abs/2310.08949)] 
 [[Code](https://github.com/zxy556677/EasyGen)]
@@ -1666,6 +1670,13 @@
 [[Project](https://ground-a-video.github.io/)]
 [[Code](https://github.com/Ground-A-Video/Ground-A-Video)] 
 
+**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet** \
+[[Website](https://arxiv.org/abs/2310.09711)]
+[[Code](https://github.com/zhijie-group/LOVECon)] 
+
+**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing** \
+[[Website](https://arxiv.org/abs/2310.10624)]
+[[Project](https://showlab.github.io/DynVideo-E/)]
 
 
 **Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
