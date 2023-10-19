@@ -1417,6 +1417,10 @@
 [[Website](https://arxiv.org/abs/2307.12348)] 
 [[Code](https://github.com/zsyoaoa/resshift)] 
 
+**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
+[[Website](https://arxiv.org/abs/2310.12004)] 
+[[Code](https://github.com/amandaluof/moe_sr)] 
+
 **Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
 [[Website](https://arxiv.org/abs/2308.14469)] 
 [[Code](https://github.com/yangxy/PASD)] 
@@ -1549,6 +1553,11 @@
 [[Website](https://arxiv.org/abs/2309.15818)]
 [[Project](https://showlab.github.io/Show-1/)] 
 [[Code](https://github.com/showlab/Show-1)]
+
+**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation** \
+[[Website](https://arxiv.org/abs/2310.10769)]
+[[Project](https://rq-wu.github.io/projects/LAMP/index.html)] 
+[[Code](https://github.com/RQ-Wu/LAMP)]
 
 
 **LLM-GROUNDED VIDEO DIFFUSION MODELS** \
