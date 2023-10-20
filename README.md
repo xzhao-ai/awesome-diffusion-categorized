@@ -1569,6 +1569,11 @@
 [[Project](https://llm-grounded-video-diffusion.github.io/)] 
 [[Code](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)]
 
+**DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2310.12190)]
+[[Code](https://github.com/AILab-CVC/VideoCrafter)]
+
+
 **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
 [[NeurIPS 2023](https://arxiv.org/abs/2309.14494)]
 [[Code](https://github.com/SooLab/Free-Bloom)]
