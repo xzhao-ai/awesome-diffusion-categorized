@@ -509,6 +509,11 @@
 [[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
 [[Code](https://github.com/JarrentWu1031/SingleInsert)]
 
+**Photoswap: Personalized Subject Swapping in Images** \
+[[Website](https://arxiv.org/abs/2305.18286)] 
+[[Project](https://photoswap.github.io/)] 
+[[Code](https://github.com/eric-ai-lab/photoswap)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[Website](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -564,9 +569,6 @@
 
 
 
-**Photoswap: Personalized Subject Swapping in Images** \
-[[Website](https://arxiv.org/abs/2305.18286)] 
-[[Project](https://photoswap.github.io/)] 
 
 **Gradient-Free Textual Inversion** \
 [[Website](https://arxiv.org/abs/2304.05818)] 
