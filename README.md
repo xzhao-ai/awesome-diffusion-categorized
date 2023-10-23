@@ -1334,6 +1334,10 @@
 [[Code](https://github.com/KunpengSong/styleganfusion)]
 [[Project](https://styleganfusion.github.io/)] 
 
+**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** \
+[[Website](https://arxiv.org/abs/2310.13165)]
+[[Code](https://github.com/sled-group/cyclenet)]
+
 **FlexIT: Towards Flexible Semantic Image Translation** \
 [[Website](https://arxiv.org/abs/2203.04705)]
 [[Code](https://github.com/facebookresearch/semanticimagetranslation)]
