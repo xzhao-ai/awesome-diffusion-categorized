@@ -1575,6 +1575,12 @@
 [[Project](https://llm-grounded-video-diffusion.github.io/)] 
 [[Code](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)]
 
+**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling** \
+[[Website](https://arxiv.org/abs/2310.15169)]
+[[Project](http://haonanqiu.com/projects/FreeNoise.html)] 
+[[Code](https://github.com/arthur-qiu/LongerCrafter)]
+
+
 **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2310.12190)]
 [[Code](https://github.com/AILab-CVC/VideoCrafter)]
@@ -1612,6 +1618,7 @@
 
 **ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2310.07697)]
+
 
 
 ## Video Editing 
