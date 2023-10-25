@@ -324,7 +324,7 @@
 [[Website](https://arxiv.org/abs/2303.14353)] 
 
 **Class-Incremental Learning using Diffusion Model for Distillation and Replay** \
-[[Website](https://arxiv.org/abs/2306.17560)] 
+[[ICCV 2023 VCL workshop best paper](https://arxiv.org/abs/2306.17560)] 
 
 **DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation** \
 [[Website](https://arxiv.org/abs/2308.01127)] 
