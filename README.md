@@ -1070,6 +1070,8 @@
 **Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling** \
 [[Website](https://arxiv.org/abs/2307.03992)] 
 
+**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation** \
+[[Website](https://arxiv.org/abs/2310.16656)] 
 
 
 **Norm-guided latent space exploration for text-to-image generation** \
@@ -1385,6 +1387,9 @@
 
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
+
+**Dolfin: Diffusion Layout Transformers without Autoencoder** \
+[[Website](https://arxiv.org/abs/2310.16305)]
 
 
 
@@ -1747,3 +1752,6 @@
 
 **CCEdit: Creative and Controllable Video Editing via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.16496)]
+
+**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.16400)]
