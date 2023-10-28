@@ -1462,8 +1462,9 @@
 [[ICCV 2023](https://arxiv.org/abs/2303.10056)] 
 [[Code](https://github.com/salesforce/GlueGen)]
 
-**Any-to-Any Generation via Composable Diffusion** \
+**CoDi: Any-to-Any Generation via Composable Diffusion** \
 [[Website](https://arxiv.org/abs/2305.11846)]
+[[Neurips 2023](https://neurips.cc/virtual/2023/poster/72964)]
 [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
 [[Project](https://codi-gen.github.io/)] 
 
