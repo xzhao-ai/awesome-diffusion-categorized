@@ -1423,7 +1423,7 @@
 [[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
 [[Project](https://iterative-refinement.github.io/)] 
 
-**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
+⭐**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
 [[Website](https://arxiv.org/abs/2307.12348)] 
 [[Neurips 2023 spotlight](https://nips.cc/virtual/2023/poster/71244)] 
 [[Code](https://github.com/zsyoaoa/resshift)] 
