@@ -1434,7 +1434,9 @@
 [[Code](https://github.com/IceClear/StableSR)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
 
-
+**DiffIR: Efficient Diffusion Model for Image Restoration**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/Zj-BinXia/DiffIR)]
 
 **Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
 [[Website](https://arxiv.org/abs/2310.12004)] 
@@ -1443,6 +1445,10 @@
 **Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
 [[Website](https://arxiv.org/abs/2308.14469)] 
 [[Code](https://github.com/yangxy/PASD)] 
+
+**HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
+
 
 **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2305.15357)] 
@@ -1453,12 +1459,8 @@
 **YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2308.07977)]
 
-**HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 
-**DiffIR: Efficient Diffusion Model for Image Restoration**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
-[[Code](https://github.com/Zj-BinXia/DiffIR)]
+
 
 ## X2I X2X
 
