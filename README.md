@@ -1423,14 +1423,18 @@
 [[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
 [[Project](https://iterative-refinement.github.io/)] 
 
+**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
+[[Website](https://arxiv.org/abs/2307.12348)] 
+[[Neurips 2023 spotlight](https://nips.cc/virtual/2023/poster/71244)] 
+[[Code](https://github.com/zsyoaoa/resshift)] 
+[[Project](https://zsyoaoa.github.io/projects/resshift/)] 
+
 ⭐**Exploiting Diffusion Prior for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2305.07015)] 
 [[Code](https://github.com/IceClear/StableSR)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
 
-**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
-[[Website](https://arxiv.org/abs/2307.12348)] 
-[[Code](https://github.com/zsyoaoa/resshift)] 
+
 
 **Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
 [[Website](https://arxiv.org/abs/2310.12004)] 
