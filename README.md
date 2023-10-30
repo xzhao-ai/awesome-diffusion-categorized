@@ -1339,6 +1339,7 @@
 **CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** \
 [[Website](https://arxiv.org/abs/2310.13165)]
 [[Code](https://github.com/sled-group/cyclenet)]
+[[Project](https://cyclenetweb.github.io/)] 
 
 **FlexIT: Towards Flexible Semantic Image Translation** \
 [[Website](https://arxiv.org/abs/2203.04705)]
