@@ -50,6 +50,10 @@
 ⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
+**IterInv: Iterative Inversion for Pixel-Level T2I Models** \
+[[Neurips 2023 workshops on diffusion models](https://arxiv.org/abs/2310.19540)] 
+[[Code](https://github.com/Tchuanm/IterInv)] 
+
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[Website](https://arxiv.org/abs/2211.12446)] 
@@ -568,6 +572,9 @@
 [[Project](https://prompt-plus.github.io/)] 
 
 
+**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs//2310.19784)] 
+[[Project](https://jiangyzy.github.io/CustomNet/)] 
 
 
 **Gradient-Free Textual Inversion** \
