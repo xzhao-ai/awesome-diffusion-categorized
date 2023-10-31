@@ -228,6 +228,10 @@
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
+**Learning to Follow Object-Centric Image Editing Instructions Faithfully** \
+[[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
+[[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
+
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.00613)] 
 
@@ -1600,6 +1604,10 @@
 [[Project](http://haonanqiu.com/projects/FreeNoise.html)] 
 [[Code](https://github.com/arthur-qiu/LongerCrafter)]
 
+**VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** \
+[[Website](https://arxiv.org/abs/2310.19512)]
+[[Project](https://ailab-cvc.github.io/videocrafter/)] 
+[[Code](https://github.com/AILab-CVC/VideoCrafter)]
 
 **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2310.12190)]
