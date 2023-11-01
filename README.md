@@ -1630,6 +1630,9 @@
 [[Website](https://arxiv.org/abs/2210.02303)]
 [[Project](https://imagen.research.google/video/)] 
 
+**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
+[[Website](https://arxiv.org/abs/2310.20700)]
+
 
 **Dual-Stream Diffusion Net for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2308.08316)]
