@@ -1650,6 +1650,8 @@
 **ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2310.07697)]
 
+**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation** \
+[[Website](https://arxiv.org/abs/2311.00353)]
 
 
 ## Video Editing 
