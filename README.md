@@ -306,6 +306,9 @@
 **FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2309.14934)]
 
+**The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing** \
+[[Website](https://arxiv.org/abs/2311.01410)]
+
 # Continual Learning
 
 ⭐**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
@@ -1324,6 +1327,10 @@
 **Gradpaint: Gradient-Guided Inpainting with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.09614)] 
 
+**Infusion: Internal Diffusion for Video Inpainting** \
+[[Website](https://arxiv.org/abs/2311.01090)] 
+
+
 ## I2I translation
 
 ⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
@@ -1609,6 +1616,12 @@
 [[Project](https://ailab-cvc.github.io/videocrafter/)] 
 [[Code](https://github.com/AILab-CVC/VideoCrafter)]
 
+**VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning** \
+[[Website](https://arxiv.org/abs/2311.00990)]
+[[Project](https://videodreamer23.github.io/)] 
+[[Code](https://github.com/videodreamer23/videodreamer23.github.io)]
+
+
 **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2310.12190)]
 [[Code](https://github.com/AILab-CVC/VideoCrafter)]
@@ -1652,6 +1665,10 @@
 
 **LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation** \
 [[Website](https://arxiv.org/abs/2311.00353)]
+
+**Optimal Noise pursuit for Augmenting Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2311.00949)]
+
 
 
 ## Video Editing 
