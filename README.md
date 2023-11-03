@@ -51,8 +51,12 @@
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
 **IterInv: Iterative Inversion for Pixel-Level T2I Models** \
-[[Neurips 2023 workshops on diffusion models](https://arxiv.org/abs/2310.19540)] 
+[[Website](https://arxiv.org/abs/2310.19540)] 
+[[Neurips 2023 workshop](https://neurips.cc/virtual/2023/74859)] 
+[[Openreview](https://openreview.net/forum?id=mSGmzVo0aS)] 
+[[NeuripsW on Diffusion Models](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
 [[Code](https://github.com/Tchuanm/IterInv)] 
+
 
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
@@ -63,13 +67,13 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.13203)] 
 [[Code](https://github.com/zyxElsa/InST)] 
 
-**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.07825)] 
 
 **Score-Based Diffusion Models as Principled Priors for Inverse Imaging** \
 [[Website](https://arxiv.org/abs/2304.11751)] 
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Score-Based_Diffusion_Models_as_Principled_Priors_for_Inverse_Imaging_ICCV_2023_paper.pdf)]
 
+**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.07825)] 
 
 
 ## Text Guided Image Editing
