@@ -1285,11 +1285,17 @@
 [[Code](https://github.com/Shilin-LU/TF-ICON)]
 [[Project](https://shilin-lu.github.io/tf-icon.github.io/)]
 
+
+
+**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
+[[ICML 2023](https://icml.cc/virtual/2023/poster/24127)] 
+[[Website](https://arxiv.org/abs/2304.03322)] 
+[[Code](https://github.com/ucsb-nlp-chang/copaint)]
+
 **AnyDoor: Zero-shot Object-level Image Customization** \
 [[Website](https://arxiv.org/abs/2307.09481)] 
 [[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
 [[Code](https://github.com/damo-vilab/AnyDoor)] 
-
 
 **Delving Globally into Texture and Structure for Image Inpainting**\
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
@@ -1302,12 +1308,6 @@
 **ControlCom: Controllable Image Composition using Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.10040)] 
 [[Code]](https://github.com/bcmi/ControlCom-Image-Composition) 
-
-
-**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
-[[Website](https://arxiv.org/abs/2304.03322)] 
-[[Code](https://github.com/ucsb-nlp-chang/copaint)]
-
 
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.09869)] 
