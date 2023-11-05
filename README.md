@@ -1134,20 +1134,46 @@
 ⭐**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2308.12469)] 
 
+**LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation** \
+[[Website](https://arxiv.org/abs/2303.12343)] 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)]
+[[Project](https://koutilya-pnvr.github.io/LD-ZNet/)]
+[[Code](https://github.com/koutilya-pnvr/LD-ZNet)]
+
+**Stochastic Segmentation with Conditional Categorical Diffusion Models**\
+[[Website](https://arxiv.org/abs/2303.08888)] 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)]
+[[Code](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation)]
+
 **DDP: Diffusion Model for Dense Visual Prediction**\
-[[ICCV 2023](https://arxiv.org/abs/2303.17559)]
+[[Website](https://arxiv.org/abs/2303.17559)]
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_DDP_Diffusion_Model_for_Dense_Visual_Prediction_ICCV_2023_paper.html)]
 [[Code](https://github.com/JiYuanFeng/DDP)]
+
+
+**OVTrack: Open-Vocabulary Multiple Object Tracking** \
+[[Website](https://arxiv.org/abs/2304.08408)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.html
+)] 
+[[Project](https://www.vis.xyz/pub/ovtrack/)] 
+
+**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** \
+[[Website](https://arxiv.org/abs/2308.12350)] 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html
+)] 
+
+**DiffusionDet: Diffusion Model for Object Detection** \
+[[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
+[[Code](https://github.com/shoufachen/diffusiondet)]
 
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.11681)] 
 [[Project](https://weijiawu.github.io/DiffusionMask/)] 
 
-**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** \
-[[ICCV 2023](https://arxiv.org/abs/2308.12350)] 
+**DiffusionTrack: Diffusion Model For Multi-Object Tracking** \
+[[Website](https://arxiv.org/abs/2308.09905)] 
+[[Code](https://github.com/rainbowluocs/diffusiontrack)]
 
-**DiffusionDet: Diffusion Model for Object Detection** \
-[[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
-[[Code](https://github.com/shoufachen/diffusiondet)]
 
 **MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation** \
 [[Website](https://arxiv.org/abs/2309.13042)] 
@@ -1160,11 +1186,6 @@
 **SLiMe: Segment Like Me** \
 [[Website](https://arxiv.org/abs/2309.03179)] 
 
-**OVTrack: Open-Vocabulary Multiple Object Tracking** \
-[[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
-
-**DiffusionTrack: Diffusion Model For Multi-Object Tracking** \
-[[Website](https://arxiv.org/abs/2308.09905)] 
 
 **MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model for Few-Shot Instance Segmentation** \
 [[Website](https://arxiv.org/abs/2303.05105)] 
@@ -1187,13 +1208,7 @@
 **Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation** \
 [[Website](https://arxiv.org/abs/2309.15726)] 
 
-**Stochastic Segmentation with Conditional Categorical Diffusion Models**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.pdf)]
 
-**LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation** \
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/PNVR_LD-ZNet_A_Latent_Diffusion_Approach_for_Text-Based_Image_Segmentation_ICCV_2023_paper.pdf)]
-[[Project](https://koutilya-pnvr.github.io/LD-ZNet/)]
-[[Code](https://github.com/koutilya-pnvr/LD-ZNet)]
 
 
 # Few-Shot 
