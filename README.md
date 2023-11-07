@@ -1208,6 +1208,8 @@
 **Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation** \
 [[Website](https://arxiv.org/abs/2309.15726)] 
 
+**Patch-based Selection and Refinement for Early Object Detection** \
+[[Website](https://arxiv.org/abs/2311.02274)] 
 
 
 
@@ -1454,6 +1456,10 @@
 [[ICDAR 2023](https://arxiv.org/abs/2306.12049)]
 [[Code](https://github.com/univ-esuty/ambifusion)] 
 
+**AnyText: Multilingual Visual Text Generation And Editing** \
+[[Website](https://arxiv.org/abs/2311.03054)]
+[[Code](https://github.com/tyxsspa/AnyText)] 
+
 
 ## Super Resolution
 ⭐⭐⭐**Image Super-Resolution via Iterative Refinement** \
@@ -1497,6 +1503,8 @@
 **YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2308.07977)]
 
+**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model** \
+[[Website](https://arxiv.org/abs/2311.02358)]
 
 
 
