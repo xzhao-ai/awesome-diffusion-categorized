@@ -1648,6 +1648,10 @@
 [[Project](https://videodreamer23.github.io/)] 
 [[Code](https://github.com/videodreamer23/videodreamer23.github.io)]
 
+**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.04145)]
+[[Project](https://i2vgen-xl.github.io/)] 
+[[Code](https://github.com/damo-vilab/i2vgen-xl)]
 
 **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2310.12190)]
