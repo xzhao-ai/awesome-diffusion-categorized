@@ -637,6 +637,9 @@
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.06933)] 
 
+**A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization** \
+[[Website](https://arxiv.org/abs/2311.04315)] 
+
 
 # Representation Learning
 
