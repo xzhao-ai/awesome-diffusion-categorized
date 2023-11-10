@@ -1401,6 +1401,8 @@
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)]
 
+**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2311.05463)]
 
 
 
